@@ -11,11 +11,11 @@ Purchase:
 -------------------------------------------------------------------
 */
 
-@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/bootstrap.css");
-@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/font-awesome.css");
-@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/fonts.css");
-@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/animate.css");
-@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/simple-line-icons.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/css/bootstrap.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/css/font-awesome.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/css/fonts.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/css/animate.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/css/simple-line-icons.css");
 @import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/owl/owl.carousel.css");
 @import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/fancybox/jquery.fancybox.css");
 @import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/ammap/ammap.css");
