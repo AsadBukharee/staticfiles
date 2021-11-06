@@ -11,18 +11,18 @@ Purchase:
 -------------------------------------------------------------------
 */
 
-@import url("bootstrap.css");
-@import url("font-awesome.css");
-@import url("fonts.css");
-@import url("animate.css");
-@import url("simple-line-icons.css");
-@import url("../js/plugins/owl/owl.carousel.css");
-@import url("../js/plugins/fancybox/jquery.fancybox.css");
-@import url("../js/plugins/ammap/ammap.css");
-@import url("../js/plugins/mesonary/FilterableProductGrid/css/component.css");
-@import url("../js/plugins/mesonary/FilterableProductGrid/css/flickity.css");
-@import url("../js/plugins/revel/css/layers.css");
-@import url("../js/plugins/revel/css/navigation.css");
-@import url("../js/plugins/revel/css/settings.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/bootstrap.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/font-awesome.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/fonts.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/animate.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/simple-line-icons.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/owl/owl.carousel.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/fancybox/jquery.fancybox.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/ammap/ammap.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/mesonary/FilterableProductGrid/css/component.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/mesonary/FilterableProductGrid/css/flickity.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/revel/css/layers.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/revel/css/navigation.css");
+@import url("https://cdn.jsdelivr.net/gh/AsadBukharee/staticfiles@v1.0/js/plugins/revel/css/settings.css");
 @import url("custom_animation.css");
 @import url("style.css");
